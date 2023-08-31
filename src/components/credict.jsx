@@ -1,8 +1,8 @@
  
 const Credict =()=>{
     return(
-      <div>
-        Hello World desde un componente
+      <div className="">
+        Hello World desde un componente.prueba de commit
       </div>
     )
 }
